@@ -66,7 +66,7 @@ O projeto utiliza uma paleta de cores escura com tons de azul em gradiente:
 
    
 ## Autor
-Jonathan Arsego Lêla
-RA: 22408629
-Engenharia da Computação - CEUB
+- Jonathan Arsego Lêla
+- RA: 22408629
+- Engenharia da Computação - CEUB
    
