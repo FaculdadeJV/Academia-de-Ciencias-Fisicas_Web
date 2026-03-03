@@ -5,7 +5,19 @@
 
 Uma página web informativa desenvolvida para apresentar os 10 conceitos fundamentais da Física de forma clara, visual e interativa. Projeto acadêmico para a disciplina de Desenvolvimento Web.
 
-![Preview do Site](https://via.placeholder.com/800x400?text=Preview+da+Página)
+## Screenshots
+
+### Tela Principal (Desktop)
+![Tela Principal](./print1.png)
+
+### Versão Mobile
+![Versão Mobile](./print2.png)
+
+### Exemplo de Conteúdo
+![Conteúdo Detalhado](./print3.png)
+
+### Layout das Colunas
+![Layout em 3 Colunas](./print4.png)
 
 ## Sobre o Projeto
 
@@ -51,3 +63,10 @@ O projeto utiliza uma paleta de cores escura com tons de azul em gradiente:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/academia-ciencias-fisicas.git
+
+   
+## Autor
+Jonathan Arsego Lêla
+RA: 22408629
+Engenharia da Computação - CEUB
+   
