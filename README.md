@@ -7,17 +7,17 @@ Uma página web informativa desenvolvida para apresentar os 10 conceitos fundame
 
 ## Screenshots
 
-### Tela Principal (Desktop)
+### Tela Principal (Part.1)
 ![Tela Principal](./print1.png)
 
-### Versão Mobile
-![Versão Mobile](./print2.png)
+### Tela Principal (Part.2)
+![Continuação](./print2.png)
 
-### Exemplo de Conteúdo
-![Conteúdo Detalhado](./print3.png)
+### Tela Principal (Part.3)
+![Continuação](./print3.png)
 
-### Layout das Colunas
-![Layout em 3 Colunas](./print4.png)
+### Tela Principal (Part.4)
+![Continuação](./print4.png)
 
 ## Sobre o Projeto
 
