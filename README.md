@@ -62,7 +62,7 @@ O projeto utiliza uma paleta de cores escura com tons de azul em gradiente:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/academia-ciencias-fisicas.git
+   [git clone https://github.com/seu-usuario/academia-ciencias-fisicas.git](https://github.com/FaculdadeJV/Academia-de-Ciencias-Fisicas_Web.git)
 
    
 ## Autor
